@@ -9,8 +9,7 @@
 <body>
 <!-- Header -->
 <header id="header">
-	<a href="index.html" class="logo" style = "text-align: center;"><b>오늘 여행을 내일로 미루지 말자</b></a><br>
-	
+	<a href="index.html" class="logo" style = "text-align: center;"><b>오늘 여행을 내일로 미루지 말자</b></a>
 </header>
 </body>
 </html>

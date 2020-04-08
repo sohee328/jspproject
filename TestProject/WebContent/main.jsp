@@ -1,9 +1,9 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>ë‘ë²ˆì§¸ íŽ˜ì´ì§€</title>
+	<title>µÎ¹øÂ° ÆäÀÌÁö</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />
@@ -23,26 +23,26 @@
 						<div class="posts">
 							<article>
 								<a href="#" class="image"><img src="images/test1.jpg" alt="" /></a>
-								<h3>ê°•ë¦‰ì¸ê°€ ì†ì´ˆì¸ê°€</h3>
-								<p>ë¹¨ê°„ ë“±ëŒ€ì¸ê°€ ë²„ì„¯ì¸ê°€</p>
+								<h3>°­¸ªÀÎ°¡ ¼ÓÃÊÀÎ°¡</h3>
+								<p>»¡°£ µî´ëÀÎ°¡ ¹ö¼¸ÀÎ°¡</p>
 								<ul class="actions">
-									<li><a href="#" class="button">ë”°ë´‰</a></li>
+									<li><a href="#" class="button">µûºÀ</a></li>
 								</ul>
 							</article>
 							<article>
 								<a href="#" class="image"><img src="images/test2.jpg" alt="" /></a>
-								<h3>ì–‘í‰ ë‘ë¬¼ë¨¸ë¦¬</h3>
-								<p>ë‘ë¬¼ë¨¸ë¦¬ëŠ” ì‚¬ëžŒì´ ë„ˆë¬´ ë§Žì•„ìš”. í•«ë„ê·¸ëŠ” ë§›ìžˆì–´ìš”. ì•žì— ì»¤í”¼ëŠ” ì‹¸êµ¬ë ¤</p>
+								<h3>¾çÆò µÎ¹°¸Ó¸®</h3>
+								<p>µÎ¹°¸Ó¸®´Â »ç¶÷ÀÌ ³Ê¹« ¸¹¾Æ¿ä. ÇÖµµ±×´Â ¸ÀÀÖ¾î¿ä. ¾Õ¿¡ Ä¿ÇÇ´Â ½Î±¸·Á</p>
 								<ul class="actions">
-									<li><a href="#" class="button">ë”°ë´‰</a></li>
+									<li><a href="#" class="button">µûºÀ</a></li>
 								</ul>
 							</article>
 							<article>
 								<a href="#" class="image"><img src="images/test3.jpg" alt="" /></a>
-								<h3>ì†ì´ˆ ì—˜ë¦¬ìŠ¤ì¹´íŽ˜</h3>
-								<p>ì†ë‹˜ì´ ì—†ìœ¼ë©´ ì¹´íŽ˜ ì£¼ì¸ì´ ì§ì ‘ ì‚¬ì§„ë„ ì°ì–´ì¤˜ìš”. ì—´ì • ìµœê³ ..ã…Ž</p>
+								<h3>¼ÓÃÊ ¿¤¸®½ºÄ«Æä</h3>
+								<p>¼Õ´ÔÀÌ ¾øÀ¸¸é Ä«Æä ÁÖÀÎÀÌ Á÷Á¢ »çÁøµµ Âï¾îÁà¿ä. ¿­Á¤ ÃÖ°í..¤¾</p>
 								<ul class="actions">
-									<li><a href="#" class="button">ë”°ë´‰</a></li>
+									<li><a href="#" class="button">µûºÀ</a></li>
 								</ul>
 							</article>
 							<article>
